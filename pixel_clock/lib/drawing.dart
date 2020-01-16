@@ -456,8 +456,8 @@ class Drawing {
     return [
       tile, tile, tile, null, tile, tile, null, null, tile, tile, tile,
       tile, null, null, null, tile, null, tile, null, null, tile, null,
-      tile, tile, tile, null, tile, tile, tile, null, null, tile, null,
-      tile, null, null, null, tile, tile, null, null, null, tile, null,
+      tile, tile, tile, null, tile, tile, null, null, null, tile, null,
+      tile, null, null, null, tile, null, tile, null, null, tile, null,
       tile, null, null, null, tile, null, tile, null, tile, tile, tile,
     ];
   }
